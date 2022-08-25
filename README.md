@@ -1,2 +1,4 @@
-# sheesoft.github.io
-Sheesoft - data and software services
+# Sheesoft
+A technology provider for data and software services
+
+# Under Constructions

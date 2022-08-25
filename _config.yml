@@ -1,0 +1,6 @@
+theme: jekyll-theme-minimal
+title: Sheesoft - data and software service provider
+description: Multicloud solutions
+show_downloads: false
+google_analytics: 
+exclude: [bin, Gemfile, Gemfile.lock, readme.txt, CNAME, ]
